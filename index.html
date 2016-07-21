@@ -1,0 +1,32 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+    <head></head>
+    <body>
+        <ul>
+        {% for skill in site.data.skills.proficient %}
+            <li><a href="{{ skill.link }}" target="_blank">{{ skill.title | xml_escape }}</a></li>
+        {% endfor %}
+        </ul>
+        <ul>
+        {% for skill in site.data.skills.familiar %}
+            <li><a href="{{ skill.link }}" target="_blank">{{ skill.title | xml_escape }}</a></li>
+        {% endfor %}
+        <div>
+        {% for job in site.data.jobs %}
+            <div>
+                {{ job.title | xml_escape }}
+                {{ job.technologies | xml_escape }}
+                <a href="{{ job.link }} target="_blank">{{ job.company | xml_escape }}</a>
+                {{ job.dates | xml_escape }}
+                {{ job.description | xml_escape }}
+            </div>
+        {% endfor %}
+        </div>
+        {% for misc in site.data.misc %}
+            <li>{{ misc | xml_escape }}</li>
+        {% endfor %}
+        </ul>
+    </body>
+</html>

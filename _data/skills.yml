@@ -1,0 +1,70 @@
+proficient:
+  - title:    PHP
+    link:     //www.php.net/
+
+  - title:    Symfony
+    link:     //symfony.com/
+
+  - title:    OAuth
+    link:     //en.wikipedia.org/wiki/OAuth
+
+  - title:   Kohana
+    link:     //kohanaframework.org/
+
+  - title:   Laravel
+    link:     //laravel.com/
+
+  - title:   Silex
+    link:     //silex.sensiolabs.org/
+
+  - title:   SQL
+    link:     //en.wikipedia.org/wiki/SQL
+
+  - title:   JavaScript
+    link:     //en.wikipedia.org/wiki/JavaScript
+
+  - title:   CSS3
+    link:     //en.wikipedia.org/wiki/CSS3#CSS_3
+
+  - title:   Python
+    link:     //www.python.org/
+
+  - title:   Git & SVN
+    link:     //en.wikipedia.org/wiki/Version_control
+
+  - title:   PHPUnit
+    link:     //phpunit.de/
+
+familiar:
+  - title:    Agile
+    link:     //en.wikipedia.org/wiki/Agile_software_development
+
+  - title:    Domain Driven Design
+    link:     //en.wikipedia.org/wiki/Domain-driven_design
+
+  - title:    Jekyll
+    link:     //jekyllrb.com/
+
+  - title:    Composer
+    link:     //getcomposer.org
+
+  - title:    HTML5
+    link:     //en.wikipedia.org/wiki/HTML5
+
+  - title:    LAMP
+    link:     //en.wikipedia.org/wiki/LAMP_%28software_bundle%29
+
+  - title:    WordPress
+    link:     //wordpress.org/
+
+  - title:    XPath
+    link:     //en.wikipedia.org/wiki/XPath
+
+  - title:    Regex
+    link:     //en.wikipedia.org/wiki/Regular_expression
+
+  - title:    Django
+    link:     //www.djangoproject.com/
+
+  - title:    Magento
+    link:     //www.magentocommerce.com/
