@@ -2,31 +2,73 @@
 ---
 <!DOCTYPE html>
 <html lang="en">
-    <head></head>
+    <head>
+        <title>Resume of {{ site.data.meta.name }}</title>
+        <meta charset="utf-8">
+        <meta name="description" content="{{ site.data.meta.page_description }}">
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="all">
+        <link href="resume.css" rel="stylesheet" media="all">
+        <link rel="shortcut icon" href="/favicon.ico">
+    </head>
     <body>
-        <ul>
-        {% for skill in site.data.skills.proficient %}
-            <li><a href="{{ skill.link }}" target="_blank">{{ skill.title | xml_escape }}</a></li>
-        {% endfor %}
-        </ul>
-        <ul>
-        {% for skill in site.data.skills.familiar %}
-            <li><a href="{{ skill.link }}" target="_blank">{{ skill.title | xml_escape }}</a></li>
-        {% endfor %}
-        <div>
-        {% for job in site.data.jobs %}
-            <div>
-                {{ job.title | xml_escape }}
-                {{ job.technologies | xml_escape }}
-                <a href="{{ job.link }} target="_blank">{{ job.company | xml_escape }}</a>
-                {{ job.dates | xml_escape }}
-                {{ job.description | xml_escape }}
+        <div class="container-page">
+            <div id="masthead">
+                <div id="contact">
+                    <a href="mailto:{{ site.data.meta.email }}" id="email">{{ site.data.meta.email }}</a>
+                    <a href="tel:+{{ site.data.meta.phone_raw }}" id="phone">{{ site.data.meta.phone_formatted }}</a>
+                </div>
+
+                <h1>{{ site.data.meta.name }}</h1>
+                <h2>{{ site.data.meta.profession }}</h2>
             </div>
-        {% endfor %}
+
+            <div id="skills">
+                <div id="proficient">
+                    <h3>Proficient in:</h3>
+                    <ul>
+                    {% for skill in site.data.skills.proficient %}
+                        <li><a href="{{ skill.link }}" target="_blank">{{ skill.title | xml_escape }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </div>
+                
+                <div id="familiar">
+                    <h3>Familiar with:</h3>
+                    <ul>
+                    {% for skill in site.data.skills.familiar %}
+                        <li><a href="{{ skill.link }}" target="_blank">{{ skill.title | xml_escape }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </div>
+
+                <div class="clear"></div>
+            </div>
+
+            <div id="employment">
+                <h2>Employment History</h2>
+
+                {% for job in site.data.jobs %}
+                    <div class="job {% if job.short %} short {% endif %}">
+                        <span class="position">{{ job.title | xml_escape }}</span>
+                        <span class="technologies">{{ job.technologies | xml_escape }}</span>
+                        <span class="company"><a href="{{ job.link }} target="_blank">{{ job.company | xml_escape }}</a></span>
+                        <span class="dates">{{ job.dates | xml_escape }}</span>
+                        <p class="description">
+                            {{ job.description | xml_escape }}
+                        </p>
+                    </div>
+                {% endfor %}
+            </div>
+            
+            <div id="education">
+                <h2>Education, Training and Miscellanea</h2>
+                <ul>
+                {% for misc in site.data.misc %}
+                    <li>{{ misc | xml_escape }}</li>
+                {% endfor %}
+                </ul>
+            </div>
+
         </div>
-        {% for misc in site.data.misc %}
-            <li>{{ misc | xml_escape }}</li>
-        {% endfor %}
-        </ul>
     </body>
 </html>

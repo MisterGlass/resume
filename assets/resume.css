@@ -1,0 +1,109 @@
+@media screen { /* when on a screen, simulate the look of a piece of paper */
+	.container-page	{
+		width: 800px;
+		padding: 25px;
+		margin: 30px;
+		margin-left: auto;
+		margin-right: auto;
+			
+		border-width: 1px;
+		border-style: solid;
+		border-color: #A5A5A5;
+
+		-moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7), inset 0 0 10px rgba(0, 0, 0, 0.09);
+		-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7), inset 0 0 10px rgba(0, 0, 0, 0.09);
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7), inset 0 0 10px rgba(0, 0, 0, 0.09);
+	}
+}
+
+.clear	{
+	clear: both;
+}
+a, a:hover	{
+	color: inherit;
+}
+a[href]:after { /* Twitter bootstrap adds link URL to the text when printing. We need to override to remove it */
+	content: "";
+}
+ul	{
+	margin: 0;
+	padding: 0;
+}
+
+h2	{
+	padding-top: 15px;
+	font-size: 24px;
+	margin-bottom: 0;
+}
+
+#masthead h1	{
+	font-size: 45px;
+}
+#masthead h2	{
+	padding-top: 0;
+	font-size: 32px;
+}
+#masthead p	{
+	font-size: 16px;
+}
+#contact	{
+	float: right;
+	text-align: right;
+	margin-right: 10px;
+	margin-top: 20px;
+	font-size: 14px;
+}
+#contact a	{
+	display: block;
+}
+
+#skills h3	{
+	font-size: 22px;
+	padding-left: 5px;
+	margin: 0;
+}
+#skills ul	{
+	width: 280px;
+	margin-left: 0;
+}
+#skills li	{
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px;
+}
+#skills #proficient	{
+	float: left;
+	margin-left: 60px;
+}
+#skills #familiar	{
+	float: right;
+	margin-right: 60px;
+}
+
+.job	{
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.job .position	{
+	font-weight: bold;
+}
+.job .technologies	{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-style: italic;
+	font-size: 12px;
+}
+.job .company:before	{
+	content: " - ";
+}
+.job .dates	{
+	float: right;
+}
+.job p	{
+	margin: 0;
+}
+
+#education ul	{
+	margin: 0 0 0px 25px;
+}
