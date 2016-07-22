@@ -51,7 +51,7 @@
                     <div class="job {% if job.short %} short {% endif %}">
                         <span class="position">{{ job.title | xml_escape }}</span>
                         <span class="technologies">{{ job.technologies | xml_escape }}</span>
-                        <span class="company"><a href="{{ job.link }} target="_blank">{{ job.company | xml_escape }}</a></span>
+                        <span class="company"><a href="{{ job.link }}" target="_blank">{{ job.company | xml_escape }}</a></span>
                         <span class="dates">{{ job.dates | xml_escape }}</span>
                         <p class="description">
                             {{ job.description | xml_escape }}
