@@ -3,7 +3,7 @@
   company:          Gozengo
   link:             //gozengo.com/
   dates:            March 2016 - July 2016
-  short: false
+  short:            false
   description:      |
     Revised access control pollicy & implemented access control heirarchy in Symfony.
     Developed integrations with several third party APIs. Full stack Implementation of new admin features in symfony & backbone/marionette.
@@ -14,7 +14,7 @@
   link:             //krossover.com/
   company:          Krossover Intelligence Inc.
   dates:            March 2015 - March 2016
-  short: false
+  short:            false
   description:      |
     Maintained &amp; developed improvements for API serving companys flagship product.
     API was built using libraries from a variety of frameworks including Symfony, Laravel, Silex, and more.
@@ -27,7 +27,7 @@
   link:             //mshanken.com/
   company:          M. Shanken Communications
   dates:            April 2013 - March 2015
-  short: false
+  short:            false
   description:      |
     Developed OAuth based service, featuring single sign-on, 
     purchase/subscription processing, and permission management.
@@ -40,7 +40,7 @@
   link:             //inuvo.com/
   company:          Inuvo Inc.
   dates:            November 2012 - March 2013
-  short: false
+  short:            false
   description:      |
     Developed improvements for web applications serving millions of people a day.
     Improvements included Google Maps API integration, AJAX to speed page loads,
@@ -51,7 +51,7 @@
   link:             //www.quantum-co.com/
   company:          Quantum Networks
   dates:            May 2012 - October 2012
-  short: false
+  short:            false
   description:      |
     Developed custom WordPress themes and Magento plugins. 
     Managed cloud (AWS), dedicated and shared server hosting.
@@ -62,7 +62,7 @@
   link:             //www.pricemanager.com/
   company:          Price Manager
   dates:            February 2011 - May 2012
-  short: false
+  short:            false
   description:      |
     Mined data from e-commerce sites using Regexp, XPath, and internal tools.
     Reverse engineered AJAX sites to gather protected data.
@@ -73,7 +73,7 @@
   link:             //www.golfcoachdirect.com/
   company:          Golf Coach Direct
   dates:            November 2010 - February 2011
-  short: true
+  short:            true
   description:      Developed custom shopping cart with payment API integrationx
 
 - title:            Web Development Intern
@@ -81,7 +81,7 @@
   link:             //www.itic.org/
   company:          Information Technology Industry Council
   dates:            Summer 2010
-  short: true
+  short:            true
   description:      Designed and developed VPAT.info including XML authoring tool and extensive XML document styling with CSS.
 
 # - title:            Chief Engineer
@@ -89,7 +89,7 @@
   # link:             //wyur.net/
   # company:          WYUR
   # dates:            September 2006 ֠May 2009
-  # short: true
+  # short:            true
   # description:      Maintained student radio website and live streaming studio.
 
 # - title:            CIO
@@ -97,5 +97,5 @@
   # link:             //www.theseforimsale.com/
   # company:          Soy Seforim Sale
   # dates:            January 2006 - February 2009
-  # short: true
+  # short:            true
   # description:      Purchased and maintained POS hardware/software. Maintained reporting system and IT infrastructure.
