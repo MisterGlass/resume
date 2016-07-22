@@ -36,7 +36,7 @@
     and PHPUnit test suites for various projects.
 
 - title:            Web Developer
-  technologies:     PHP, MySQL, MooTools, LAMP, SVN
+  technologies:     PHP, MySQL, CSS3, HTML5, JS, SVN
   link:             //inuvo.com/
   company:          Inuvo Inc.
   dates:            November 2012 - March 2013
@@ -64,13 +64,14 @@
     Mined data from sites using Regexp, XPath, and other tools.
     Reverse engineered AJAX sites to gather protected data.
 
-- title:            Developer (part-time)
-  technologies:     CodeIgniter, MySQl, jQuery
-  link:             //www.golfcoachdirect.com/
-  company:          Golf Coach Direct
-  dates:            November 2010 - February 2011
-  short:            true
-  description:      Developed custom shopping cart with payment API integrationx
+# Remove GCD - part time job and not very relevant, low on space
+# - title:            Developer (part-time)
+  # technologies:     CodeIgniter, MySQl, jQuery
+  # link:             //www.golfcoachdirect.com/
+  # company:          Golf Coach Direct
+  # dates:            November 2010 - February 2011
+  # short:            true
+  # description:      Developed custom shopping cart with payment API integration
 
 - title:            Web Development Intern
   technologies:     Symfony, XML, CSS3
@@ -80,6 +81,7 @@
   short:            true
   description:      Designed and developed VPAT.info including XML authoring tool and extensive XML document styling with CSS.
 
+# Remove college experience - Not relevant at all. Uncomment if applying to a YU alum
 # - title:            Chief Engineer
   # technologies:     Shoutcast streaming audio, Audio engineering
   # link:             //wyur.net/
