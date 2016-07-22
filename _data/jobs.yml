@@ -40,33 +40,30 @@
   link:             //inuvo.com/
   company:          Inuvo Inc.
   dates:            November 2012 - March 2013
-  short:            false
+  short:            true
   description:      |
-    Developed improvements for web applications serving millions of people a day.
-    Improvements included Google Maps API integration, AJAX to speed page loads,
-    and a HTML5/CSS3/JS sign up page.
+    Developed web pages serving millions of people a day.
+    Projects included Maps API integration, AJAX to speed page loads, and a HTML5/CSS3/JS sign up page.
 
 - title:            Lead Developer
   technologies:     Wordpress, Magento, AWS, LAMP, SVN
   link:             //www.quantum-co.com/
   company:          Quantum Networks
   dates:            May 2012 - October 2012
-  short:            false
+  short:            true
   description:      |
     Developed custom WordPress themes and Magento plugins. 
     Managed cloud (AWS), dedicated and shared server hosting.
-    Maintained legacy PHP, HTML, CSS and JS code.
 
 - title:            Template Manager
   technologies:     XPath, Regexp, AJAX reverse engineering
   link:             //www.pricemanager.com/
   company:          Price Manager
   dates:            February 2011 - May 2012
-  short:            false
+  short:            true
   description:      |
     Mined data from e-commerce sites using Regexp, XPath, and internal tools.
     Reverse engineered AJAX sites to gather protected data.
-    Contributed to functional improvements of internal scraping tools and scripting language.
 
 - title:            Developer (part-time)
   technologies:     CodeIgniter, MySQl, jQuery
