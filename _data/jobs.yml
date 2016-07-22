@@ -42,8 +42,7 @@
   dates:            November 2012 - March 2013
   short:            true
   description:      |
-    Developed web pages serving millions of people a day.
-    Projects included Maps API integration, AJAX to speed page loads, and a HTML5/CSS3/JS sign up page.
+    Website served to millions of users per day. Projects ranged from Google Maps API, speeding page loads, and HTML5 sign up page.
 
 - title:            Lead Developer
   technologies:     Wordpress, Magento, AWS, LAMP, SVN
@@ -62,7 +61,7 @@
   dates:            February 2011 - May 2012
   short:            true
   description:      |
-    Mined data from e-commerce sites using Regexp, XPath, and internal tools.
+    Mined data from sites using Regexp, XPath, and other tools.
     Reverse engineered AJAX sites to gather protected data.
 
 - title:            Developer (part-time)
