@@ -5,8 +5,9 @@
   dates:            March 2016 - July 2016
   short:            false
   description:      |
-    Revised access control pollicy & implemented access control heirarchy in Symfony.
-    Developed integrations with several third party APIs. Full stack Implementation of new admin features in symfony & backbone/marionette.
+    Revised access control pollicy &amp; implemented access control heirarchy using Symfony security component.
+    Developed API integrations to perform searching &amp; purchasing through third party inventories.
+    Full stack Implementation of new admin features in symfony &amp; backbone/marionette.
     Consulted on various architectural challenges including caching, content distribution, and complex search/shopping flow requirements.
 
 - title:            Platform Engineer
