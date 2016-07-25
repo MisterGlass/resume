@@ -5,9 +5,9 @@
   dates:            March 2016 - July 2016
   short:            false
   description:      |
-    Revised access control pollicy &amp; implemented access control heirarchy using Symfony security component.
-    Developed API integrations to perform searching &amp; purchasing through third party inventories.
-    Full stack Implementation of new admin features in symfony &amp; backbone/marionette.
+    Revised access control pollicy & implemented access control heirarchy using Symfony security component.
+    Developed API integrations to perform searching & purchasing through third party inventories.
+    Full stack Implementation of new admin features in symfony & backbone/marionette.
     Consulted on various architectural challenges including caching, content distribution, and complex search/shopping flow requirements.
 
 - title:            Platform Engineer
@@ -17,10 +17,10 @@
   dates:            March 2015 - March 2016
   short:            false
   description:      |
-    Maintained &amp; developed improvements for API serving companys flagship product.
+    Maintained & developed improvements for API serving companys flagship product.
     API was built using libraries from a variety of frameworks including Symfony, Laravel, Silex, and more.
-    Developed &amp; managed release process to improve software lifecycle.
-    Trained intern staff &amp; mentored junior developers. Learned AngularJS &amp; 
+    Developed & managed release process to improve software lifecycle.
+    Trained intern staff & mentored junior developers. Learned AngularJS & 
     made minor website contributions during internal angular developer shortage
 
 - title:            Backend Developer
