@@ -107,3 +107,11 @@ h2    {
 #education ul    {
     margin: 0 0 0px 25px;
 }
+
+@media print {
+    .job {page-break-inside: avoid;}
+
+    /* Hack to hide url etc when printing */
+    @page { margin: 0; }
+    body  { margin: 1.6cm; }
+}
