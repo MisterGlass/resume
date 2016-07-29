@@ -102,10 +102,9 @@ h2    {
     font-weight: bold;
 }
 .job .technologies    {
-    margin-left: 5px;
-    margin-right: 5px;
     font-style: italic;
-    font-size: 12px;
+    display: block;
+    color: #424242;
 }
 .job .company:before    {
     content: " - ";
