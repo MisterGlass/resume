@@ -40,7 +40,8 @@ h2    {
     margin-top: 50px;
     width: 700px;
     text-align: center;
-    background-color: #D8D8D8!important;
+    background-color: #D8D8D8 !important;
+    -webkit-print-color-adjust: exact;
     border-radius: 15px;
 }
 
@@ -49,7 +50,7 @@ h2    {
 }
 #masthead h2    {
     text-align: left;
-    background-color: white!important;
+    background-color: white !important;
     padding-top: 20;
     font-size: 32px;
     margin-bottom: 0px;
