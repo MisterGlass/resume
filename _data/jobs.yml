@@ -1,3 +1,15 @@
+- title:            Senior Software Engineer, Core Team
+  technologies:     PHP 7, Symfony, MySQL, Docker, PHPUnit, Ember
+  company:          BounceX
+  link:             //BounceX.com/
+  dates:            September 2016 - June 2017
+  short:            false
+  description:      |
+    Designed and built a secure REST API from the ground up using Symfony microkernel.
+    Wrote SQL queries to aggregate data stored in complex, multi-paradigm, legacy DB.
+    Created PHPUnit suite which performed functional tests for all entities based on model definitions.
+    Assisted with developing company security policies for ISO 27001 certification.
+
 - title:            Senior Backend Engineer
   technologies:     Symfony, PHP, SOAP, MySQL, Redis
   company:          Gozengo
