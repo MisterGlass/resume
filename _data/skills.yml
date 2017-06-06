@@ -48,8 +48,8 @@ familiar:
   - title:    Agile
     link:     //en.wikipedia.org/wiki/Agile_software_development
 
-  - title:    Domain Driven Design
-    link:     //en.wikipedia.org/wiki/Domain-driven_design
+#  - title:    Domain Driven Design
+#    link:     //en.wikipedia.org/wiki/Domain-driven_design
 
   - title:    Jekyll
     link:     //jekyllrb.com/
