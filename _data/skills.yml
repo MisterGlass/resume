@@ -8,6 +8,12 @@ proficient:
   - title:    OAuth
     link:     //en.wikipedia.org/wiki/OAuth
 
+  - title:    Composer
+    link:     //getcomposer.org
+
+  - title:   PHPUnit
+    link:     //phpunit.de/
+
   - title:   Kohana
     link:     //kohanaframework.org/
 
@@ -23,7 +29,7 @@ proficient:
   - title:   JavaScript
     link:     //en.wikipedia.org/wiki/JavaScript
 
-  - title:   CSS3
+  - title:   CSS
     link:     //en.wikipedia.org/wiki/CSS3#CSS_3
 
   - title:   Python
@@ -32,10 +38,13 @@ proficient:
   - title:   Git & SVN
     link:     //en.wikipedia.org/wiki/Version_control
 
-  - title:   PHPUnit
-    link:     //phpunit.de/
-
 familiar:
+  - title:    Docker
+    link:     //docker.com/
+
+  - title:    nginx
+    link:     //nginx.org/en/
+
   - title:    Agile
     link:     //en.wikipedia.org/wiki/Agile_software_development
 
@@ -44,9 +53,6 @@ familiar:
 
   - title:    Jekyll
     link:     //jekyllrb.com/
-
-  - title:    Composer
-    link:     //getcomposer.org
 
   - title:    HTML5
     link:     //en.wikipedia.org/wiki/HTML5
