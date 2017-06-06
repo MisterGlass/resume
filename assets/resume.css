@@ -5,7 +5,7 @@
         margin: 30px;
         margin-left: auto;
         margin-right: auto;
-            
+
         border-width: 1px;
         border-style: solid;
         border-color: #A5A5A5;
@@ -31,8 +31,6 @@ ul    {
 }
 
 h2    {
-    padding-top: 7px;
-    padding-bottom: 7px;
     font-size: 24px;
     margin-left: auto;
     margin-right:auto;
@@ -40,7 +38,6 @@ h2    {
     margin-top: 50px;
     width: 700px;
     text-align: center;
-    background-color: #D8D8D8 !important;
     -webkit-print-color-adjust: exact;
     border-radius: 15px;
 }
