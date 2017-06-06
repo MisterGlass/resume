@@ -45,6 +45,9 @@ familiar:
   - title:    nginx
     link:     //nginx.org/en/
 
+  - title:    JSON API
+    link:     //jsonapi.org/
+
   - title:    Agile
     link:     //en.wikipedia.org/wiki/Agile_software_development
 
