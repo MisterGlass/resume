@@ -1,3 +1,15 @@
+- title:            Senior Software Engineer
+  technologies:     PHP 7, Laravel, Lambda, Python, Behat
+  company:          Tibrio
+  link:             //tibrio.com/
+  dates:            June 2017 - October 2018
+  short:            false
+  description:      |
+    Lead engineer on 3 person developer team for samples.com property.
+    Leveraged AWS Lambda and related services for ad targeting & other background tasks.
+    Built high performance serverless applications to replace expensive 3rd party lead acquisition & URL redirect services.
+    Worked with management team to identify company security needs, drafted security policy, and ran security software rollout to employee computers.
+
 - title:            Senior Software Engineer, Core Team
   technologies:     PHP 7, Symfony, MySQL, Docker, PHPUnit, Ember
   company:          BounceX

@@ -5,8 +5,8 @@ proficient:
   - title:    Symfony
     link:     //symfony.com/
 
-  - title:    OAuth
-    link:     //en.wikipedia.org/wiki/OAuth
+  - title:    Lambda
+    link:    //aws.amazon.com/lambda/
 
   - title:    Composer
     link:     //getcomposer.org
@@ -14,8 +14,11 @@ proficient:
   - title:   PHPUnit
     link:     //phpunit.de/
 
-  - title:   Kohana
-    link:     //kohanaframework.org/
+#  - title:   Kohana
+#    link:     //kohanaframework.org/
+
+  - title:    OAuth
+    link:     //en.wikipedia.org/wiki/OAuth
 
   - title:   Laravel
     link:     //laravel.com/
