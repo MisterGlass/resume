@@ -6,8 +6,8 @@
   short:            false
   description:      |
     Lead engineer on 3 person developer team for samples.com property.
-    Leveraged AWS Lambda and related services for ad targeting & other background tasks.
-    Built high performance serverless applications to replace expensive 3rd party lead acquisition & URL redirect services.
+    Leveraged AWS Lambda and related services for ad targeting and other background tasks.
+    Built high-performance serverless applications to replace expensive third-party lead acquisition and URL redirect services.
     Worked with management team to identify company security needs, drafted security policy, and ran security software rollout to employee computers.
 
 - title:            Senior Software Engineer, Core Team
@@ -29,9 +29,9 @@
   dates:            March 2016 - July 2016
   short:            false
   description:      |
-    Revised access control policy & implemented access control hierarchy using Symfony security component.
-    Developed API integrations to perform searching & purchasing through third party inventories.
-    Full stack Implementation of new admin features in symfony & backbone/marionette.
+    Revised access control policy and implemented access control hierarchy using Symfony security component.
+    Developed API integrations to perform searching and purchasing through third party inventories.
+    Full stack Implementation of new admin features in Symfony and Backbone/Marionette.
     Consulted on various architectural challenges including caching, content distribution, and complex search/shopping flow requirements.
 
 - title:            Platform Engineer
@@ -41,10 +41,10 @@
   dates:            March 2015 - March 2016
   short:            false
   description:      |
-    Maintained & developed improvements for API serving company's flagship product.
+    Maintained and developed improvements for API serving company's flagship product.
     API was built using libraries from a variety of frameworks including Symfony, Laravel, Silex, and more.
-    Developed & managed release process to improve software lifecycle.
-    Trained intern staff & mentored junior developers. Learned AngularJS &
+    Developed and managed release process to improve software lifecycle.
+    Trained intern staff and mentored junior developers. Learned AngularJS and
     made minor website contributions during internal angular developer shortage
 
 - title:            Backend Developer
