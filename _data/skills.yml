@@ -45,11 +45,14 @@ familiar:
   - title:    Docker
     link:     //docker.com/
 
-  - title:    nginx
+  - title:    NGINX
     link:     //nginx.org/en/
 
   - title:    JSON API
     link:     //jsonapi.org/
+
+  - title:    Behat
+    link:     //behat.org/en/latest/
 
   - title:    Agile
     link:     //en.wikipedia.org/wiki/Agile_software_development
