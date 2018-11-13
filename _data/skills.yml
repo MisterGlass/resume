@@ -81,5 +81,5 @@ familiar:
   - title:    Django
     link:     //www.djangoproject.com/
 
-  - title:    Magento
-    link:     //www.magentocommerce.com/
+#  - title:    Magento
+#    link:     //www.magentocommerce.com/
