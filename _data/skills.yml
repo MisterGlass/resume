@@ -48,8 +48,11 @@ familiar:
   - title:    NGINX
     link:     //nginx.org/en/
 
-  - title:    JSON API
-    link:     //jsonapi.org/
+  - title:    CI & CD Automation
+    link:     //en.wikipedia.org/wiki/Continuous_integration
+
+#  - title:    JSON API
+#    link:     //jsonapi.org/
 
   - title:    Behat
     link:     //behat.org/en/latest/
