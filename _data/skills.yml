@@ -75,11 +75,11 @@ familiar:
   - title:    WordPress
     link:     //wordpress.org/
 
-  - title:    XPath
-    link:     //en.wikipedia.org/wiki/XPath
+#  - title:    XPath
+#    link:     //en.wikipedia.org/wiki/XPath
 
-  - title:    Regex
-    link:     //en.wikipedia.org/wiki/Regular_expression
+#  - title:    Regex
+#    link:     //en.wikipedia.org/wiki/Regular_expression
 
   - title:    Django
     link:     //www.djangoproject.com/
